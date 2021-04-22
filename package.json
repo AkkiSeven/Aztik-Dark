@@ -1,0 +1,21 @@
+{
+    "name": "aztik-dark",
+    "displayName": "Aztik Dark",
+    "description": "A elegant theme for long-term coding!!!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Theme Aztik",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Theme Aztik-color-theme.json"
+            }
+        ]
+    }
+}
