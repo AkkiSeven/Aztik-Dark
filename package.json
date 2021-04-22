@@ -4,6 +4,23 @@
     "description": "A elegant theme for long-term coding!!!",
     "version": "0.0.1",
     "publisher": "Aztik",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/AkkiSeven/Aztik-Dark"
+    },
+    "keywords": [
+      "theme",
+      "dark theme",
+      "nice theme",
+      "good theme",
+      "awesome theme",
+      "amazing theme",
+      "best theme",
+      "akki theme",
+      "aztik theme",
+      "aztik",
+      "akki"
+    ],
     "engines": {
         "vscode": "^1.46.0"
     },
