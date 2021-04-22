@@ -2,7 +2,8 @@
     "name": "aztik-dark",
     "displayName": "Aztik Dark",
     "description": "A elegant theme for long-term coding!!!",
-    "version": "0.0.1",
+    "icon": "images/aztikdark.jpeg",
+    "version": "1.0.0",
     "publisher": "Aztik",
     "repository": {
       "type": "git",
